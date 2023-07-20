@@ -1,14 +1,26 @@
-import './NavBar.css';
+import './navbar.css';
 import React, { useState } from "react";
+import data from '../../../package.json';
+import NavBarLink from './navbar-link';
 
 function NavBar() {
+    const homePath = window.location.origin +'/' + data.name + '/';
+    const projectPath = window.location.origin +'/'+ data.name + '/projects';
+
     return (
-        <>
-            <ul id='nav-list'>
-                <li><a href="http://localhost:3000/sophie-shirine-react-app/"> Home </a></li>
-                <li><a href="http://localhost:3000/sophie-shirine-react-app/projects"> Projects</a></li>
-            </ul>
-        </>
+        <div className='navbar-container'>
+            <div className='navbar-links-left-container'>
+                <NavBarLink text='About' path={homePath} />
+                <NavBarLink text='Projects' path={projectPath} />
+            </div>
+            <div className='navbar-title-container'>
+                <p className='navbar-title'>Sophie Shirine</p>
+            </div>
+            <div className='navbar-links-right-container'>
+                <NavBarLink text='About' path={homePath} />
+                <NavBarLink text='Projects' path={projectPath} />
+            </div>
+        </div>
     );
 }
 
