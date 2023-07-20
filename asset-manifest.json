@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sophie-shirine-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/sophie-shirine-react-app/static/js/main.7ed68880.js",
+    "static/js/787.2df4f581.chunk.js": "/sophie-shirine-react-app/static/js/787.2df4f581.chunk.js",
+    "static/media/logo.svg": "/sophie-shirine-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sophie-shirine-react-app/index.html",
+    "main.073c9b0a.css.map": "/sophie-shirine-react-app/static/css/main.073c9b0a.css.map",
+    "main.7ed68880.js.map": "/sophie-shirine-react-app/static/js/main.7ed68880.js.map",
+    "787.2df4f581.chunk.js.map": "/sophie-shirine-react-app/static/js/787.2df4f581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7ed68880.js"
+  ]
+}
