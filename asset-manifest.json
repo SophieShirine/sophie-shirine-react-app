@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sophie-shirine-react-app/static/css/main.a1ce5412.css",
-    "main.js": "/sophie-shirine-react-app/static/js/main.5bc3fea0.js",
+    "main.css": "/sophie-shirine-react-app/static/css/main.fcd44e2d.css",
+    "main.js": "/sophie-shirine-react-app/static/js/main.11ccb754.js",
     "static/js/787.2df4f581.chunk.js": "/sophie-shirine-react-app/static/js/787.2df4f581.chunk.js",
     "index.html": "/sophie-shirine-react-app/index.html",
-    "main.a1ce5412.css.map": "/sophie-shirine-react-app/static/css/main.a1ce5412.css.map",
-    "main.5bc3fea0.js.map": "/sophie-shirine-react-app/static/js/main.5bc3fea0.js.map",
+    "main.fcd44e2d.css.map": "/sophie-shirine-react-app/static/css/main.fcd44e2d.css.map",
+    "main.11ccb754.js.map": "/sophie-shirine-react-app/static/js/main.11ccb754.js.map",
     "787.2df4f581.chunk.js.map": "/sophie-shirine-react-app/static/js/787.2df4f581.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1ce5412.css",
-    "static/js/main.5bc3fea0.js"
+    "static/css/main.fcd44e2d.css",
+    "static/js/main.11ccb754.js"
   ]
 }
