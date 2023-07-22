@@ -1,0 +1,14 @@
+.wavy-container {
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+    margin-top: -75px;
+}
+
+.wavy-svg-view-box {
+    height: 100%;
+    width: 100%;
+}
+.wavy-path {
+    stroke: none;
+}
